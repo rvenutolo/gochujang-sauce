@@ -1,4 +1,4 @@
-# Gochujang Sauce Recipe
+# Gochujang Sauce
 
 ### Ingredients
  
