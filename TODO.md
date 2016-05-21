@@ -13,4 +13,4 @@
  * Add smoked salt (reduce soy sauce?)
  * Hungarian smoked paprika
  * Rice wine vinegar
- * Ketchup (ketchup + rice wince vinegar form something more like an American BBQ sauce?)
+ * Ketchup (ketchup + rice wince vinegar for something more like an American BBQ sauce?)
