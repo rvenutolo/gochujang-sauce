@@ -11,3 +11,9 @@
  * 2 tsp. ginger
  * garlic as desired (8+ cloves)
  * liquid smoke as desired
+
+### Directions
+
+ 1. Dissolve sugar in water.
+ 2. Mix all ingredients together.
+ 3. Reduce over heat to desired consistency.
