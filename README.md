@@ -17,3 +17,7 @@
  1. Dissolve sugar in water.
  2. Mix all ingredients together.
  3. Reduce over heat to desired consistency.
+
+[ToDo/ToTry](TODO.md)
+
+[Notes](NOTES.md)
