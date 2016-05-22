@@ -5,7 +5,7 @@
   * Honey
   * Molasses
   * Mirin
-  * White carmelized sugar (300° for 5 hours)
+  * [Toasted sugar](http://www.seriouseats.com/recipes/2016/05/dry-toasted-sugar-granulated-caramel-recipe.html)
  * Other soda
   * Mexican Coke
   * Sprite
