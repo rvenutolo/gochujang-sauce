@@ -1,5 +1,6 @@
 ### Things to Do and Try
 
+ * Is water necessary?
  * Find desired sweetness level
  * Use alternate sweeteners
   * Honey
