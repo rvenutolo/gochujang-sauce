@@ -20,6 +20,8 @@
  2. Reduce over heat to desired consistency.
 
  ![Sauce](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/pot.jpg)
+ 
+ ![Bottled](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/bottled.jpg)
 
 [ToDo/ToTry](TODO.md)
 
