@@ -11,11 +11,15 @@
  * 2 tsp. ginger
  * garlic as desired (8+ cloves)
  * liquid smoke as desired
+ 
+ ![Ingredients](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/ingredients.jpg)
 
 ### Directions
 
  1. Mix all ingredients together.
  2. Reduce over heat to desired consistency.
+
+ ![Sauce](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/pot.jpg)
 
 [ToDo/ToTry](TODO.md)
 
