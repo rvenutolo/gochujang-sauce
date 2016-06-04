@@ -12,3 +12,8 @@
  * Used 8oz. light brown sugar.
  * Used gochujang picked up from Buford Highway Farmers Market. Think it is same brand as previous Amazon purchases.
  * Initial tasting doesn't seem to have enough heat. Perhaps needs a touch less sugar. Or might have tasted it too often that I do not notice the heat. Maybe needs to be thicker to concentrate heat.
+
+### 2016-06-03
+ * Bryan suggested I try half/half white/brown.
+ * Made two half batches; one with white sugar, one with light brown sugar.
+ * Undecided which I like better.
