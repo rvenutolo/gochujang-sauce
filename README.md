@@ -5,11 +5,11 @@
  * 8 oz. brown sugar
  * 1<sup>1</sup>/<sub>2</sub> c. water
  * <sup>1</sup>/<sub>4</sub> c. soy sauce
- * <sup>1</sup>/<sub>8</sub> c. sesame oil
+ * 2 tbsp. sesame oil
  * 6 oz. ginger ale
  * 500 g. [gochujang](http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ)
- * 2 tsp. ginger
- * garlic as desired (8+ cloves)
+ * 2 tbsp. ginger
+ * 8+ cloves garlic
  * liquid smoke as desired
  
  ![Ingredients](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/ingredients.jpg)
