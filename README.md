@@ -8,8 +8,8 @@
  * 2 tbsp. sesame oil
  * 6 oz. ginger ale
  * 500 g. [gochujang](http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ)
- * 1 tbsp. ginger
- * 8+ cloves garlic
+ * 1 tbsp. minced ginger
+ * 4 tbsp. minced garlic
  * liquid smoke as desired
  
  ![Ingredients](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/ingredients.jpg)
