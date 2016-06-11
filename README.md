@@ -2,7 +2,7 @@
 
 ### Ingredients
  
- * 8 oz. brown sugar
+ * 8 oz. sugar (brown or white, or mixture thereof)
  * 1<sup>1</sup>/<sub>2</sub> c. water
  * <sup>1</sup>/<sub>4</sub> c. soy sauce
  * 2 tbsp. sesame oil
