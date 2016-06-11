@@ -19,4 +19,6 @@
  * Undecided which I like better.
 
 ### 2016-06-10
- * Used "extra spicy" gochujang. 
+ * Used "extra spicy" gochujang.
+ * Previous batches were better balanced.
+ * Should try a batch with just toasted white sugar.
