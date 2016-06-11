@@ -8,7 +8,7 @@
  * 2 tbsp. sesame oil
  * 6 oz. ginger ale
  * 500 g. [gochujang](http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ)
- * 2 tbsp. ginger
+ * 1 tbsp. ginger
  * 8+ cloves garlic
  * liquid smoke as desired
  
