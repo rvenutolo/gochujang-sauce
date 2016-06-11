@@ -17,3 +17,6 @@
  * Bryan suggested I try half/half white/brown.
  * Made two half batches; one with white sugar, one with light brown sugar.
  * Undecided which I like better.
+
+### 2016-06-10
+ * Used "extra spicy" gochujang. 
