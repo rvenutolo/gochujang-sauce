@@ -22,3 +22,8 @@
  * Used "extra spicy" gochujang.
  * Previous batches were better balanced.
  * Should try a batch with just toasted white sugar.
+ 
+### 2016-06-18
+ * Made double batch
+ * Use half toasted white sugar, half dark brown sugar.
+ * Used Sprite instead of ginger ale.
