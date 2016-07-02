@@ -27,3 +27,7 @@
  * Made double batch
  * Use half toasted white sugar, half dark brown sugar.
  * Used Sprite instead of ginger ale.
+
+### 2016-06-24
+ * Made double batch with half toast white sugar, half dark brown sugar.
+ * Really like this sugar combination.
