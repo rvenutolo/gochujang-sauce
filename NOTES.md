@@ -41,3 +41,7 @@
  * Prefer toasted white sugar over non-toasted. Like caramel undertone.
  * Prefer dark brown sugar over light. More depth.
  * Prefer toasted white to dark brown. Like the upfront flavor.
+ * Made three mixes
+  * half toasted white, half dark brown sugar
+  * two-thirds toasted white, one-third dark brown sugar
+  * one-third toasted white, two-thirds dark brown sugar
