@@ -31,3 +31,14 @@
 ### 2016-06-24
  * Made double batch with half toast white sugar, half dark brown sugar.
  * Really like this sugar combination.
+
+### 2016-07-03
+ * [Made quarter batches, one each with](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/sugar_test.jpg):
+  * ![Sugar Taste Test](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/sugar_test.jpg) 
+  * white sugar
+  * toasted white sugar
+  * light brown sugar
+  * dark brown sugar
+ * Prefer toasted white sugar over non-toasted. Like caramel undertone.
+ * Prefer dark brown sugar over light. More depth.
+ 
