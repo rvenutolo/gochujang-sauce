@@ -11,7 +11,7 @@
  * 4 tbsp. minced garlic
  * 4 oz. dark brown sugar
  * 4 oz. toasted white sugar
- * 500 g. [gochujang](http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ)
+ * 500 g. gochujang
  
  ![Ingredients](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/ingredients.jpg)
 
