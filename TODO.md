@@ -1,11 +1,12 @@
 ### Things to Do and Try
 
  * Is water necessary?
-  * Use alternate sweeteners
+ * Use other sweeteners
   * Honey
   * Molasses
   * Mirin
-  * [Toasted sugar](http://www.seriouseats.com/recipes/2016/05/dry-toasted-sugar-granulated-caramel-recipe.html)
+  * Sorghum
+  * Palm sugar
  * Other soda
   * Mexican Coke
   * Sprite
