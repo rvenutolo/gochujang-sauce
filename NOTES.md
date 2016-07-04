@@ -45,4 +45,4 @@
   * half toasted white, half dark brown sugar
   * two-thirds toasted white, one-third dark brown sugar
   * one-third toasted white, two-thirds dark brown sugar
- * Mixes were a little discernable from each other, but I could not come to a conclusion which I liked best.
+ * Liked first two more than third, but no strong preference.
