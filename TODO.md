@@ -12,6 +12,7 @@
   * Sprite
   * Root beer
  * Add smoked salt (reduce soy sauce?)
+ * Try liquid smoke
  * Ghost pepper salt
  * Hungarian smoked paprika
  * Rice wine vinegar
