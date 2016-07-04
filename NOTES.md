@@ -34,7 +34,6 @@
 
 ### 2016-07-03
  * [Made quarter batches, one each with](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/sugar_test.jpg):
-  * ![Sugar Taste Test](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/sugar_test.jpg) 
   * white sugar
   * toasted white sugar
   * light brown sugar
