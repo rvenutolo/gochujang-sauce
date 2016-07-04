@@ -9,7 +9,8 @@
  * 6 oz. ginger ale
  * 1 tbsp. minced ginger
  * 4 tbsp. minced garlic
- * 8 oz. sugar (brown or white, or mixture thereof)
+ * 4 oz. dark brown sugar
+ * 4 oz. toasted white sugar
  * 500 g. [gochujang](http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ)
  * liquid smoke as desired
  
