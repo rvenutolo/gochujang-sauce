@@ -46,3 +46,8 @@
   * two-thirds toasted white, one-third dark brown sugar
   * one-third toasted white, two-thirds dark brown sugar
  * Liked first two more than third, but no strong preference.
+
+### 2016-07-09
+ * Made double batch with half toasted white sugar and half dark brown sugar.
+ * Really happy with this sugar combination.
+ * Probably thickened sauce a touch too much, but still good.
