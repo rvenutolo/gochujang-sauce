@@ -51,3 +51,7 @@
  * Made double batch with half toasted white sugar and half dark brown sugar.
  * Really happy with this sugar combination.
  * Probably thickened sauce a touch too much, but still good.
+
+### 2016-07-16
+ * Used same ingredients.
+ * Might not have reduced sauce enough.
