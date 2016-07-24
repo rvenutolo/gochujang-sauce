@@ -55,3 +55,7 @@
 ### 2016-07-16
  * Used same ingredients.
  * Might not have reduced sauce enough.
+
+### 2016-07-22
+ * Double batch.
+ * Good consistency.
