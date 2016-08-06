@@ -59,3 +59,8 @@
 ### 2016-07-22
  * Double batch.
  * Good consistency.
+
+### 2016-08-05
+ * Made with "very hot" gochujang.
+ * Was a bit hotter, but not very hot.
+ * Sauce is probably better with regular gochujang.
