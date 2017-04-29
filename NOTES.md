@@ -34,17 +34,17 @@
 
 ### 2016-07-03
  * [Made quarter batches, one each with](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/sugar_test.jpg):
-  * white sugar
-  * toasted white sugar
-  * light brown sugar
-  * dark brown sugar
+   * white sugar
+   * toasted white sugar
+   * light brown sugar
+   * dark brown sugar
  * Prefer toasted white sugar over non-toasted. Like caramel undertone.
  * Prefer dark brown sugar over light. More depth.
  * Prefer toasted white to dark brown. Like the upfront flavor.
  * Made three mixes:
-  * half toasted white, half dark brown sugar
-  * two-thirds toasted white, one-third dark brown sugar
-  * one-third toasted white, two-thirds dark brown sugar
+   * half toasted white, half dark brown sugar
+   * two-thirds toasted white, one-third dark brown sugar
+   * one-third toasted white, two-thirds dark brown sugar
  * Liked first two more than third, but no strong preference.
 
 ### 2016-07-09
