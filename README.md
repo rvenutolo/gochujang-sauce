@@ -8,9 +8,8 @@
  * 2 tbsp. sesame oil
  * 6 oz. ginger ale
  * 1 tbsp. minced ginger
- * 4 tbsp. minced garlic
- * 4 oz. dark brown sugar
- * 4 oz. toasted (300°F for 3 hours) white sugar
+ * 4 tbsp. minced garlic (minimum)
+ * 8 oz. dark brown sugar
  * 500 g. gochujang
  
  ![Ingredients](https://raw.githubusercontent.com/rvenutolo/gochujang-sauce/master/images/ingredients.jpg)
