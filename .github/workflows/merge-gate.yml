@@ -3,7 +3,6 @@ name: merge-gate
 # Always-green required status check. It exists so the protect-main ruleset's
 # "require branches to be up to date before merging" (strict status checks)
 # has a check to attach to on repos with no real CI.
-# Managed alongside rvenutolo/tofu-github-repos.
 
 on:
   pull_request:
